@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "basic.h": "c",
+        "inorder.h": "c",
+        "malloc.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
